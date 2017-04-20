@@ -1,0 +1,27 @@
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    margin: 30px;
+}
+
+ul {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+ul li {
+    display: inline-block;
+}
+
+a:target {
+    box-shadow: 0.2em 0.2em 0.3em #888;
+}
+
+.center {
+    text-align: center;
+}
+
+img {
+    margin-bottom: 30px;
+}
