@@ -2,13 +2,15 @@
 	margin: 0;
 	padding: 0;
 }
-
+/*
 html {
     height: 100%;
     background: transparent url(images/spring/bg-spring.jpg) no-repeat top left fixed;
     color: black;
     background-size: 100%;
 }
+*/
+
 
 .menu{
    background: orange;
@@ -33,6 +35,26 @@ html {
 .menu ul li a:hover{
     color:orange;
     background: #000;
+}
+
+.anchtml{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    background-color: orange;
+}
+.anccss{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    background-color: blue;
+}
+
+.ancjavas{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    background-color: yellow;
 }
 
 
