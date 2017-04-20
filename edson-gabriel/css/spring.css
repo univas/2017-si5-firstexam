@@ -35,7 +35,7 @@ img {
     width: 200px;
     height: 200px;
     transition: 0.5s;
-    border: 2px solid yellow;
+    border: 2px solid purple;
     background-image: url(images/bg.png);
     border-radius: 20px;
     padding: 20px;
