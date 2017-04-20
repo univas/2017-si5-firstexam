@@ -1,0 +1,36 @@
+body{
+    background-color: darkgrey;
+    background:url(../imagens/summer.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: red;
+    margin: auto;
+    text-align: justify;
+}
+
+.htmlsub{
+    color:blue;
+}
+
+.htmlsub:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+li{
+    border: 2px solid whitesmoke;
+    width: 40%;
+    padding: 8px;
+    margin-left: 8px;
+    margin-top: 8px;
+}
+
+section{
+    display: none;
+}
+
+section:target{
+    display: block;
+}
