@@ -50,6 +50,10 @@ h2{
     background: #000;
 }
 
+a:target{
+    background: red;
+}
+
 .anchtml{
     margin-top: 15px;
     margin-bottom: 10px;
