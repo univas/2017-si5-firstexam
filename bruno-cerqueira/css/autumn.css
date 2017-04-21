@@ -1,0 +1,13 @@
+body {
+    background: url(../../assets/seasons/autumn/bg-autumn.jpg)  center center no-repeat fixed; 
+    background-position: fixed;
+    background-size: cover;
+}
+
+h2, h3, a {
+    color:#FFB90F;
+}
+
+a:hover {
+    color: #FFFF00;
+}

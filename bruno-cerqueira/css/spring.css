@@ -1,0 +1,13 @@
+body {
+    background: url(../../assets/seasons/spring/bg-spring.jpg)  center center no-repeat fixed; ; 
+    background-position: fixed;
+    background-size: cover;
+}
+
+h2, h3, a {
+    color:#9ACD32;
+}
+
+a:hover {
+    color: #CAFF70;
+}

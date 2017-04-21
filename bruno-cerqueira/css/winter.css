@@ -1,0 +1,13 @@
+body {
+    background: url(../../assets/seasons/winter/bg-winter.jpg)  center center no-repeat fixed; 
+    background-position: fixed;
+    background-size: cover;
+}
+
+h2, h3, a {
+    color:#8EE5EE;
+}
+
+a:hover {
+    color: #D1EEEE;
+}
