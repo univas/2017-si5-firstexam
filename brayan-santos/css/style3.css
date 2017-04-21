@@ -13,7 +13,7 @@ body {
 }
 
 .sec{
-    margin-left:2%;
+    margin-left:center;
     padding:1px 16px;
     height:1000px;
 }
@@ -25,6 +25,7 @@ section:target{
     display: block;
 }
 h1{ 
+    font-size: 100%;
     margin-left: 10%;
 }
 h2{
