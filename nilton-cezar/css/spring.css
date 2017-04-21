@@ -77,7 +77,10 @@ h2{
     width: 800px;
     padding: 5px;
     border: 2px solid black;
+    padding-right: 150px;
+    background: url(images/spring/spring.png) right no-repeat;
     background-color : rgba(255,255,255,0.7);
+    
 }
 
 .pcss{
@@ -87,6 +90,8 @@ h2{
     width: 800px;
     border: 2px solid black;
     padding: 5px;
+    padding-right: 150px;
+    background: url(images/spring/spring2.png) right no-repeat;
     background-color : rgba(255,255,255,0.7);
 }
 .pjavas{
@@ -96,6 +101,8 @@ h2{
     width: 800px;
     padding: 10px;
     border: 2px solid black;
+    padding-right: 150px;
+    background: url(images/spring/spring3.png) right no-repeat;
     background-color : rgba(255,255,255,0.7);
 }
 
