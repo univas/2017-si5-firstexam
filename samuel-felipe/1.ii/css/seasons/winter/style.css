@@ -1,0 +1,40 @@
+body { background-image: url("bg-winter2.jpg"); }
+
+
+h1:hover{
+    background-image: url("ico-winter.gif");
+    color: white  ; 
+}
+
+body { 
+    background-color: blue;
+     color: black;
+    border: 1px solid saddlebrown;
+ } 
+	h2 {
+         background-color: aliceblue;
+         border-bottom: 1px solid firebrick;
+     } 
+	p { 
+        background-color: lightslategrey; 
+    }   
+
+a:hover{
+    color: darkred;
+}
+
+a:hover {
+     border-bottom: 1px solid dodgerblue;
+}
+
+
+
+
+winter:target{
+
+   
+    border: 2px solid brown;
+    background-color: aliceblue;
+
+    
+}
