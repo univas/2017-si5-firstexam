@@ -48,7 +48,7 @@ h2{
     padding: 5px 10px;
     margin-left: 1px;
 }
-.menu ul li a:hover{
+.menu ul li a:target{
     color:orange;
     background: #000;
 }

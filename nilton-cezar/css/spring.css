@@ -49,9 +49,23 @@ h2{
     color:orange;
     background: #000;
 }
+.menu:targed{
+    color:red;
+    background: #000;
+}
 
-a:target{
-    background: red;
+.menu:targed::before{
+     content: "Here. "
+}
+.ptarged{
+    position:absolute;
+    left:280px;
+    top: 70px;
+    width: 800px;
+    padding: 5px;
+    border: 2px solid black;
+    padding-right: 150px;
+    background-color : rgba(255,255,255,0.7);
 }
 
 .anchtml{
@@ -77,7 +91,7 @@ a:target{
 .phtml{
     position:absolute;
     left:280px;
-    top: 200px;
+    top: 250px;
     width: 800px;
     padding: 5px;
     border: 2px solid black;
