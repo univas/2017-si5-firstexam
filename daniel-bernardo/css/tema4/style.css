@@ -1,0 +1,121 @@
+body, html, div, blockquote, img, label, p, h1, h2, h3, h4, h5, h6, pre, ul, ol,
+li, dl, dt, dd, form, a, fieldset, input, th, td
+{margin:0; padding:0; outline:none}
+
+body{
+    line-height: 2; font-size: 92.5%; background: #27408B;
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    color:white;
+   
+
+}
+
+
+h2, h3, h4, h5, h6{
+    font-size: 140%;
+    color:red;
+    text-align: center;
+    background-color: orange;
+    border: solid 2px black;
+    border-radius: 4px 10px; 
+    padding-top: 10px;
+    margin-top: 4px;
+    
+}
+
+ul, ol{
+    list-style: none;
+}
+
+.global{
+    position: absolute;
+    display:block;
+    width:940px;
+    height: auto;
+    margin:auto;
+    left:50%;
+    margin-left:-490px; /*resultado da soma da metade da largura(470) + o padding(20px +20px)*/
+    margin-bottom:10px;
+    padding:0 20px 10px 20px;
+    background-image: url(bg-winter.jpg); 
+    
+}
+
+div.header{
+    border:3px solid  black;
+    width:940px;
+    height: 135px;
+    background-color:firebrick;
+    text-align: center;
+    opacity: 0.9;
+    text-transform: uppercase;
+    color:greenyellow;
+    text-shadow: 2px 2px 1px black;
+
+}
+
+
+div.intro{
+    background-color: #4876FF;
+    border: 3px solid black;
+    border-radius: 3px;
+    padding:6px 20px;
+    opacity: 0.6;
+    text-shadow: 2px 2px 1px black;
+}
+
+div.intro:hover{
+
+    opacity: 1;
+    text-transform: uppercase;
+}
+.pintro{
+    text-align: center;
+}
+
+.indice{
+    width:904px;
+    height:auto;
+    background:#383435;
+    padding:12px 20px;
+    margin-bottom:15px;
+    list-style:none;
+    border:solid 1px black;
+}
+
+a{
+    text-decoration:none;
+}
+.indice ul li{
+   display: inline-block; 
+    background-color:#EDEDED;
+    text-decoration: none;
+    width: 130px;
+    text-align: center;
+
+}
+
+
+.indice li a:hover{
+  text-shadow: 2px 1px 3px gold;
+  background-color: #D6D6D6;
+  color: #6D6D6D;
+  border-bottom: 3px solid #EA0000;
+}
+
+.sec{
+    margin-top: 10px;
+    background-color: #4876FF;
+    border: 3px solid black;
+    border-radius: 3px;
+    padding:4px 4px;
+    opacity: 0.6;
+    text-shadow: 2px 2px 1px black;
+}
+
+div.sec:hover{
+    opacity: 1;
+    text-transform: uppercase;
+   
+
+}
