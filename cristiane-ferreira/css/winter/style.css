@@ -3,14 +3,18 @@
     padding: 2px;
 }
 
-h1{
-    text-align: center;
+h1:hover{
+    background-color: darkgrey;   
+}
+
+h1:hover span{
+    text-shadow: 2px 2px 3px
 }
 
 h2.html-icon{
    text-indent: 30px;
    background-color: #FFA500;
-   background-position-y: 3px;;
+   background-position: 1px;
    width: auto;
    margin: auto;
    border: solid 1px #FF4500
@@ -19,7 +23,7 @@ h2.html-icon{
 h2.css-icon{
    text-indent: 30px;
    background-color: lightskyblue;
-   background-position-y: 3px;;
+   background-position: 1px;
    width: auto;
    margin: auto;
    border: solid 1px #008080;
@@ -28,7 +32,7 @@ h2.css-icon{
 h2.js-icon{
    text-indent: 30px;
    background-color: #ffff33;
-   background-position-y: 3px;;
+   background-position: 1px;
    width: auto;
    margin: auto;
    border: solid 1px #ffde33;
