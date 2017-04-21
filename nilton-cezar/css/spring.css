@@ -10,15 +10,23 @@ html {
     background-size: 100%;
 }
 
-h1{
+h1 {
     margin: 5px;
     padding: 10px;
     background-color: orange;
     text-align: center;
 }
 
+h2{
+    font: 30px arial;
+    margin: 3px;
+    padding: 8px;
+    background-color: orange;
+    width: 190px;
+}
+
 .menu{
-   background: orange;
+    font-size: 50px;
     display: table;
     width: 100%;
 }
@@ -65,7 +73,7 @@ h1{
 .phtml{
     position:absolute;
     left:280px;
-    top: 180px;
+    top: 200px;
     width: 800px;
     padding: 5px;
     border: 2px solid black;
