@@ -1,0 +1,46 @@
+body{
+    background-image: url("../assets/seasons/summer/bg-summer2.jpg");
+    background-repeat: no-repeat;
+
+}
+
+* {
+    margin: 20;
+    padding: 20;
+}
+
+p {
+    color:black;
+    margin: 20;
+    border: 5px solid orange;
+    background-color: navajowhite;
+}
+
+p:hover {
+    color:silver;
+}
+
+h1 {
+    color: orangered;
+}
+
+h2 {
+    color: darkorange;
+}
+
+a {
+    color: darkorange;
+}
+
+li {
+    color: darkorange;
+}
+
+h3 {
+    color: orange;
+}
+
+h3:hover{
+    color: dimgray;
+}
+

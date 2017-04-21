@@ -1,0 +1,51 @@
+body{
+    background-image: url("../assets/seasons/winter/bg-winter2.jpg");
+    background-repeat: no-repeat;
+
+}
+
+* {
+    margin: 15;
+    padding: 15;
+}
+
+p {
+    color: white;
+    margin: 20;
+    border: 1px solid blue;
+    background-color: lightskyblue;
+}
+
+p:hover {
+    color: darkblue;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: dodgerblue;
+    border: 1px solid blue;
+    background-color: lightskyblue;
+
+}
+
+a {
+    color: darkblue;
+}
+
+li {
+    color: blue;
+    border: 1px solid blue;
+    background-color: lightskyblue;
+}
+
+h3 {
+    color: black;
+}
+
+h3:hover{
+    color: darkblue;
+}
+

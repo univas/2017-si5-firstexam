@@ -1,0 +1,51 @@
+body{
+    background-image: url("../assets/seasons/autumn/bg-autumn.jpg");
+    background-repeat: no-repeat;
+
+}
+
+* {
+    margin: 20;
+    padding: 20;
+}
+
+p {
+    color: white;
+    margin: 20;
+    border: 5px solid darkgreen;
+    background-color: seagreen;
+    
+}
+
+p:hover {
+    color: lawngreen;
+}
+
+h1 {
+    color: darkgreen;
+    border: 5px solid darkgreen;
+    background-color: lightgray;
+}
+
+h2 {
+    color: seagreen;
+    border: 5px solid darkgreen;
+    background-color: lightgray;
+}
+
+a {
+    color: orange;
+}
+
+li {
+    color: orange;
+}
+
+h3 {
+    color: lightgreen;
+}
+
+h3:hover{
+    color: dimgray;
+}
+

@@ -1,0 +1,46 @@
+body{
+    background-image: url("../assets/seasons/spring/bg-spring.jpg");
+    background-repeat: no-repeat;
+
+}
+
+* {
+    margin: 20;
+    padding: 20;
+}
+
+p {
+    color: white;
+    margin: 20;
+    border: 5px solid yellow;
+    background-color: gray;
+}
+
+p:hover {
+    color: yellow;
+}
+
+h1 {
+    color: silver;
+}
+
+h2 {
+    color: silver;
+}
+
+a {
+    color: yellow;
+}
+
+li {
+    color: yellow;
+}
+
+h3 {
+    color: white;
+}
+
+h3:hover{
+    color: dimgray;
+}
+
