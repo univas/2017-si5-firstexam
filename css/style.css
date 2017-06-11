@@ -1,0 +1,35 @@
+.message-box {
+    border: 1px solid #000;
+    border-radius: 10px;
+    width: 200px;
+    height: 40px;
+    margin: 20px auto;
+    line-height: 40px;
+    padding-left: 40px;
+    box-sizing: center;
+    background-repeat: no-repeat;
+    background-position: 4px 2px;
+    box-shadow: 2px 2px 1px #ccc;
+}
+
+.spring:hover {
+    background-color: rebeccapurple;
+    border-color:black;
+    background-image: url(images/spring.png);
+}
+
+.summer:hover {
+    background-color:cadetblue;
+    border-style:black;
+    background-image: url(images/summer.png);
+}
+.autumn:hover {
+    background-color:limegreen;
+    border-style:black;
+    background-image: url(images/autumn.png);
+}
+.winter:hover {
+    background-color:firebrick;
+    border-style:black;
+    background-image: url(images/winter.png);
+}
