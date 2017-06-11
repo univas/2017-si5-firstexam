@@ -1,0 +1,29 @@
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    margin: 30px;
+}
+
+ul {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+ul li {
+    display: inline-block;
+}
+
+:target {
+    border: 2px solid #D4D4D4;
+    background-color: #e5eecc;
+    box-shadow: 0.2em 0.2em 0.3em #888;
+}
+
+.center {
+    text-align: center;
+}
+
+img {
+    margin-bottom: 30px;
+}
