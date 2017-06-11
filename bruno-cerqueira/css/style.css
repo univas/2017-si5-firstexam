@@ -1,0 +1,56 @@
+/* Fontes */
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+body {
+	font-family: 'Roboto Condensed', Tahoma, Verdana, sans-serif;
+	background-repeat: no-repeat;
+	background-size:100%;
+	color:#fff;
+	text-align: center;
+	font-size:15px;
+}
+
+.icon {
+	width: 60px;
+	float:left;
+	margin-right: 30px;
+}
+
+section {
+	text-align: left;
+	background-color: rgba(0, 0, 0, 0.8);
+	padding:30px;
+	max-width: 800px;
+	margin-left:20%;
+	margin-right:20%;
+	margin-bottom: 20px;
+}
+
+h1 {
+	text-shadow: black 0px 0px 20px, #CDC9C9 1px 1px 1px;
+	margin-top:100px;
+	margin-bottom:100px;
+	text-transform: uppercase;
+	letter-spacing: 20px;
+}
+
+a {
+	text-decoration:none;
+}
+
+a:hover{
+	font-size:18px;
+	transition: width 2s;
+}
+
+.html {
+	border-top:orange solid 1px;
+}
+
+.css {
+	border-top:blue solid 1px;
+}
+
+.javascript {
+	border-top:yellow solid 1px;
+}

@@ -1,0 +1,16 @@
+body {
+    background: url(../../assets/seasons/summer/bg-summer.jpg) center center no-repeat fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+h2, h3, a {
+    color:#CD3700;
+}
+
+a:hover {
+    color: #FF4500;
+}
