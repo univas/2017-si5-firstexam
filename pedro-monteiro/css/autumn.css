@@ -1,0 +1,54 @@
+html{
+    background: transparent url(images/autumn-bg.jpg) no-repeat top left;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 100%;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    padding: 0;
+    margin: auto;
+}
+
+.text-bg{
+    background: rgba(255,255,255,0.7);
+    margin: 80px 50px 30px 50px;
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 0 0 0.5em;
+}
+
+.subtittle{
+    font-size: 25px;
+    border-bottom: 2px solid black;
+    font-weight: bold;
+}
+
+.others-info{
+    font-size: 18px;
+}
+
+.text-config{
+    text-align: justify;
+    margin-left: 30px;
+    margin-right: 40px;
+}
+
+.border-img{
+    border: 3px solid  black;
+    margin-bottom: 40px;
+}
+
+.ul-hover:hover{
+    background-color: yellow;
+}
+
+.link-target{
+    margin-left: 1050px;
+}
