@@ -1,0 +1,36 @@
+body{
+    background-color: darkgrey;
+    background:url(../imagens/download.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color:white;
+    margin: auto;
+    text-align: justify;
+}
+
+.htmlsub{
+    color:blue;
+}
+
+.htmlsub:hover{
+    color:purple;
+    text-decoration: underline;
+}
+
+li{
+    border: 2px solid whitesmoke;
+    width: 40%;
+    padding: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+section{
+    display: none;
+}
+
+section:target{
+    display: block;
+}
