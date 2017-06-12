@@ -1,0 +1,47 @@
+
+
+body { background-image: url("bg-spring.jpg"); }
+
+h1:hover{
+    background-image: url("spring.png");
+    color: deeppink  ; 
+}
+
+body { 
+    background-color: lightpink;
+    color: white;
+    border: 1px solid chocolate;
+ } 
+	h2 {
+         background-color: blueviolet;
+         border-bottom: 1px solid green;
+     } 
+	p { 
+        background-color: lawngreen; 
+    }   
+
+a:hover{
+    color: darkred;
+}
+
+a:hover {
+     border-bottom: 1px solid pink;
+}
+
+
+
+
+
+spring:target{
+
+    
+    border: 2px solid blue;
+    background-color: red;
+
+    
+}
+
+
+
+
+

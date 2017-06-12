@@ -1,0 +1,42 @@
+
+
+body {
+    color: red;
+    border: 1px solid sandybrown;
+     background-color: yellow;
+}
+
+body { background-image: url("bg-summer.jpg"); }
+
+h1:hover{
+    background-image: url("sun.png");
+    color: darkred  ; 
+}
+
+	h2 {
+         background-color: blue;
+         border-bottom: 1px solid green;
+     } 
+	p { 
+        background-color: lawngreen; 
+    }   
+
+a:hover{
+    color: darkred;
+}
+
+a:hover {
+     border-bottom: 1px solid powderblue;
+}
+
+
+
+
+summer:target{
+
+   
+    border: 2px solid brown;
+    background-color: aliceblue;
+
+    
+}

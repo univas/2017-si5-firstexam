@@ -1,0 +1,41 @@
+body {
+    color: black;
+    border: 1px solid chocolate;
+      background-color: orangered;
+}
+
+body { background-image: url("bg-autumn.jpg"); }
+
+h1:hover{
+    background-image: url("autumn.png");
+    color: orange  ; 
+}
+
+
+	h2 {
+         background-color: lightgreen;
+         border-bottom: 1px solid green;
+     } 
+	p { 
+        background-color: lawngreen; 
+    }   
+
+a:hover{
+    color: darkred;
+}
+
+a:hover {
+     border-bottom: 1px solid peachpuff;
+}
+
+
+
+
+spring:target{
+
+   
+    border: 2px solid brown;
+    background-color: aliceblue;
+
+    
+}
